@@ -334,6 +334,20 @@ header .container {
   margin: 16px auto;
 }
 
+.umid {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dimu {
+  position: relative;
+}
+
+.option {
+  position: absolute;
+}
+
 .footer {
   clear: both;
   background-color: #191919;
